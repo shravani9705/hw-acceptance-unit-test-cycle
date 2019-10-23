@@ -1,0 +1,18 @@
+starwars_movie:
+    id: 1
+    title: Star Wars
+    director: George Lucas
+    rating: PG
+    release_date: 1977-05-25
+    description: movie_desc
+
+thx1138_movie:
+    id: 2
+    title: THX-1138
+    director: George Lucas
+    rating: R
+    release_date: 1971-03-11
+
+chocolat_movie:
+    id: 3
+    title: Chocolat
